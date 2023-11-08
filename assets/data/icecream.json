@@ -1,0 +1,27 @@
+{
+    "icecreams" : [
+        {
+            "flovor": "Vanila",
+            "description": "Classic flovor.",
+            "toppings": ["Choco Sauce", "Sparling", "Whipped Creame"],
+            "price": 4.99,
+            "ingrediences": [
+                {"name": "Vanila Extract", "quantity": "2 tsp"},
+                {"name": "Heavy Cream", "quantity": "2 cups"},
+                {"name": "Suger", "quantity": "3/4 cup"}
+            ]
+        },
+        {
+            "flovor": "Choco",
+            "description": "Rich Chocolate",
+            "toppings": ["Nuts", "Caramel"],
+            "price": 5.49,
+            "ingrediences": [
+                {"name": "Cocoa Powder", "quantity": "1/2 cups"},
+                {"name": "Egg", "quantity": "4"},
+                {"name": "Heavy Cream", "quantity": "2 cups"}
+            ]
+        }
+
+    ]
+}
